@@ -23,11 +23,11 @@
 
 For more info:
 
-[Here is my twitter](https://twitter.com/LeonNimoy)
-[Here is my linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
+[Twitter](https://twitter.com/LeonNimoy)
+[Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
 
-![DATA smiling](https://media.giphy.com/media/rIq6ASPIqo2k0/giphy.gif)
+![DATA smiling](<img src="https://media.giphy.com/media/rIq6ASPIqo2k0/giphy.gif"  width="30" height="30">)
 
 <!--
 **LeonNimoy/LeonNimoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
