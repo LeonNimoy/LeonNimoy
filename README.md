@@ -1,8 +1,5 @@
 ![Live Long and Prosper](https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif)
 
-<!--
-**LeonNimoy/LeonNimoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ➊ Current a freshman in Computer Science 📚; 
 
@@ -31,3 +28,8 @@ For more info:
 
 
 ![DATA smiling](https://media.giphy.com/media/rIq6ASPIqo2k0/giphy.gif)
+
+<!--
+**LeonNimoy/LeonNimoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
