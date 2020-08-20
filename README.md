@@ -1,4 +1,4 @@
-![Live Long and Prosper](https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif)
+<img src='https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif' width="300" height="300">
 
 
 ➊ Current a freshman in Computer Science 📚; 
@@ -7,14 +7,14 @@
 
 ● Stacks that I'm familiar with 💻:
 
-⇒ MySQL;
-⇒ PostgresSQL;
-⇒ React.js;
-⇒ Node.js;
-⇒ JavaScript;
-⇒ Bootstrap
-⇒ CSS;
-⇒ HTML.
+▸MySQL;
+▸ PostgresSQL;
+▸ React.js;
+▸ Node.js;
+▸ JavaScript;
+▸ Bootstrap
+▸ CSS;
+▸ HTML.
 
 ● Also, quickly, update about my professional background:
 
