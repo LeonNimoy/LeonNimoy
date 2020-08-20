@@ -2,8 +2,6 @@
    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-5_1f596-1f3fe_1f3fe.png" alt="Vulcano salute" border="0" width="100">
 </p>
 
-<img src='https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif' width="300" height="300">
-
 
 ➊ Current a freshman in Computer Science 📚; 
 
@@ -31,9 +29,6 @@ For more info:
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
 
-<img src="https://media.giphy.com/media/D8imfZ7vZcFaw/giphy.gif"  width="250" height="250">
-
-<!--
-**LeonNimoy/LeonNimoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<p align="left">
+   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png" alt="Man Technologist" border="0" width="100">
+</p>
