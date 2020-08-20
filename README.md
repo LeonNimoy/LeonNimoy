@@ -27,7 +27,7 @@ For more info:
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
 
-![DATA smiling](<img src="https://media.giphy.com/media/rIq6ASPIqo2k0/giphy.gif"  width="30" height="30">)
+![DATA smiling]<img src="https://media.giphy.com/media/rIq6ASPIqo2k0/giphy.gif"  width="30" height="30">
 
 <!--
 **LeonNimoy/LeonNimoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
