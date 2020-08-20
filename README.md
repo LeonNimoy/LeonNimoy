@@ -1,3 +1,7 @@
+<p align="left">
+   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-5_1f596-1f3fe_1f3fe.png" alt="Vulcano salute" border="0" width="100">
+</p>
+
 <img src='https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif' width="300" height="300">
 
 
