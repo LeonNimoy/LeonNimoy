@@ -18,11 +18,6 @@
 - CSS;
 - HTML.
 
-### ● Also, quickly, update about my professional background:
-
-* Ex Accounting Student and Trainee of Assurance at Grant Thorton;
-* I also worked on the sector of Labor, Labor Justice, and Internal Audit.
-
 ### For more info:
 
 [Twitter](https://twitter.com/LeonNimoy)
