@@ -3,11 +3,11 @@
 </p>
 
 
-➊ Current a freshman in Computer Science 📚; 
+### ➊ Current a freshman in Computer Science 📚; 
 
-➋ Looking for an Entry Level job opportunity, on the Web Development field 🖥.
+### ➋ Looking for an Entry Level job opportunity, on the Web Development field 🖥.
 
-● Stacks that I'm familiar with 💻:
+### ● Stacks that I'm familiar with 💻:
 
 - MySQL;
 - PostgresSQL;
@@ -18,12 +18,12 @@
 - CSS;
 - HTML.
 
-● Also, quickly, update about my professional background:
+### ● Also, quickly, update about my professional background:
 
 * Ex Accounting Student and Trainee of Assurance at Grant Thorton;
 * I also worked on the sector of Labor, Labor Justice, and Internal Audit.
 
-For more info:
+### For more info:
 
 [Twitter](https://twitter.com/LeonNimoy)
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
