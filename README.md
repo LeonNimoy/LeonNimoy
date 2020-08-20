@@ -7,19 +7,19 @@
 
 ● Stacks that I'm familiar with 💻:
 
-▸MySQL;
-▸ PostgresSQL;
-▸ React.js;
-▸ Node.js;
-▸ JavaScript;
-▸ Bootstrap
-▸ CSS;
-▸ HTML.
+-MySQL;
+-PostgresSQL;
+-React.js;
+-Node.js;
+-JavaScript;
+-Bootstrap
+-CSS;
+-HTML.
 
 ● Also, quickly, update about my professional background:
 
-▸ Ex Accounting Student and Trainee of Assurance at Grant Thorton;
-▸ I also worked on the sector of Labor, Labor Justice, and Internal Audit.
+*Ex Accounting Student and Trainee of Assurance at Grant Thorton;
+*I also worked on the sector of Labor, Labor Justice, and Internal Audit.
 
 For more info:
 
