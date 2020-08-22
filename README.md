@@ -7,16 +7,19 @@
 
 ### ➋ Looking for an Entry Level job opportunity, on the Web Development field 🖥.
 
-### ● Stacks that I'm familiar with 💻:
+### ● Stacks 2020:
 
-- MySQL;
-- PostgresSQL;
+## ● Languages:
+- JavaScript;
+
+## ● Frameworks:
 - React.js;
 - Node.js;
-- JavaScript;
-- Bootstrap
-- CSS;
-- HTML.
+
+## ● Databases:
+- MySQL;
+- PostgresSQL;
+
 
 ### For more info:
 
