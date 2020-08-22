@@ -10,8 +10,11 @@
 ### ● Stacks 2020:
 
 #### ● Languages:
+
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
 <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TS" border="0" width="50">
+</p>
 
 #### ● Frameworks:
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
