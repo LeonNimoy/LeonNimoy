@@ -10,11 +10,11 @@
 ### ● Stacks 2020:
 
 #### ● Languages:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
 
 #### ● Frameworks:
-- React.js;
-- Node.js;
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="JS" border="0" width="50">
+<img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="JS" border="0" width="50">
 
 #### ● Databases:
 - MySQL;
