@@ -33,7 +33,7 @@
 <p>
 ### For more info:
 
-[![Twittter](https://www.brandeps.com/icon-download/T/Twitter-icon-vector-04.svg)](https://twitter.com/LeonNimoy)
+[Twittter](https://twitter.com/LeonNimoy)
 
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
