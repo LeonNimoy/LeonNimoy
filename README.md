@@ -22,22 +22,23 @@
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
 <img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="80">
 </p>
-#### ● Databases:
+
+● Databases:
 
 <p align="left">
 <img src="https://s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif" alt="MySQL" border="0" width="80">
 <img src="https://bit.ly/3jic90v" alt="Postgres" border="0" width="80">
 </p>
-#### ● Others:
+● Others:
 
 <p align="left">
 <img src="https://bit.ly/3lcJonk" alt="GIT" border="0" width="80">
 <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="Docker" border="0" width="80">
 <p>
-### For more info:
+
+For more info:
 
 [Twittter](https://twitter.com/LeonNimoy)
-
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
 
