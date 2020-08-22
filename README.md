@@ -25,5 +25,5 @@
 
 
 <p align="left">
-   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png" alt="Man Technologist" border="0" width="100">
+   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/230/male-technologist-type-5_1f468-1f3fe-200d-1f4bb.png" alt="Man Technologist" border="0" width="100">
 </p>
