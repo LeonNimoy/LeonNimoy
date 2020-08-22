@@ -11,15 +11,19 @@
 
 #### ● Languages:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
+<img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TS" border="0" width="50">
 
 #### ● Frameworks:
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="JS" border="0" width="50">
-<img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="JS" border="0" width="50">
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
+<img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="80">
 
 #### ● Databases:
-- MySQL;
-- PostgresSQL;
+<img src="https://s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif" alt="MySQL" border="0" width="80">
+<img src="https://bit.ly/3jic90v" alt="Postgres" border="0" width="80">
 
+#### ● Others:
+<img src="https://bit.ly/3lcJonk" alt="GIT" border="0" width="80">
+<img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="Docker" border="0" width="80">
 
 ### For more info:
 
