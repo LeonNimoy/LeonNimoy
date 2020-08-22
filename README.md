@@ -10,7 +10,7 @@
 ### ● Stacks 2020:
 
 #### ● Languages:
-- JavaScript;
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
 
 #### ● Frameworks:
 - React.js;
