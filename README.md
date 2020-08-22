@@ -9,14 +9,14 @@
 
 ### ● Stacks 2020:
 
-## ● Languages:
+#### ● Languages:
 - JavaScript;
 
-## ● Frameworks:
+#### ● Frameworks:
 - React.js;
 - Node.js;
 
-## ● Databases:
+#### ● Databases:
 - MySQL;
 - PostgresSQL;
 
