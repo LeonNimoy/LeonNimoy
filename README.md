@@ -7,7 +7,7 @@
 
 ### ➋ Looking for an Entry Level job opportunity, on the Web Development field 🖥.
 
-### ● Stacks 2020:
+### ● 2020:
 
 #### ● Languages:
 
@@ -19,9 +19,13 @@
 #### ● Frameworks:
 
 <p align="left">
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
+
 <img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="80">
 </p>
+
+#### ●Libraries
+
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
 
 ● Databases:
 
