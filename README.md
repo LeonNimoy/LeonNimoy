@@ -22,7 +22,7 @@
 <p align="left">
 
 <img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="80">
-<img src="https://miro.medium.com/max/934/1*cPt2YI-5YxhfL3_Uhw0txA.png" alt="laravel" border="0" width="80">
+<img src="https://miro.medium.com/max/934/1*cPt2YI-5YxhfL3_Uhw0txA.png" alt="laravel" border="0" width="120">
 </p>
 
 #### ●Libraries
