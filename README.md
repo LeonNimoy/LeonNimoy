@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="80">
+<img src="https://static.imasters.com.br/wp-content/uploads/2018/06/27074827/instalacion-de-nodejs-en-ubuntu-t1.jpg" alt="node" border="0" width="100">
 <img src="https://miro.medium.com/max/4460/1*fN6SmVkrWyBLZi4UvRHdgA.jpeg" alt="laravel" border="0" width="120">
 </p>
 
