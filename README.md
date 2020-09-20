@@ -31,18 +31,18 @@
 <img src="https://miro.medium.com/max/4460/1*fN6SmVkrWyBLZi4UvRHdgA.jpeg" alt="laravel" border="0" width="120">
 </p>
 
-#### ●Front-end Libraries
+#### ● Front-end Libraries
 
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
 
-● Databases:
+### ● Databases:
 
 <p align="left">
 <img src="https://s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif" alt="MySQL" border="0" width="80">
 <img src="https://bit.ly/3jic90v" alt="Postgres" border="0" width="80">
 </p>
 
-● Others:
+### ● Others:
 
 <p align="left">
 <img src="https://bit.ly/3lcJonk" alt="GIT" border="0" width="80">
