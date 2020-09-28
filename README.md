@@ -2,10 +2,7 @@
    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-5_1f596-1f3fe_1f3fe.png" alt="Vulcano salute" border="0" width="100">
 </p>
 
-
-### ➊ Current a freshman in Computer Science 📚; 
-
-### ➋ Looking for an Entry Level job opportunity, on the Web Development field 🖥.
+### ➊ Back-End Web Developer 🖥.
 
 ### ● 2020:
 
