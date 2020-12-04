@@ -11,7 +11,7 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" border="0" width="50">
 <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TS" border="0" width="50">  
-<img src="https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png" alt="PHP" border="0" width="50"> 
+<img src="https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png" alt="PHP" border="0" width="100"> 
 </p>
 
 #### ● JavaScript Runtimer:
@@ -25,7 +25,7 @@
 <p align="left">
 
 <img src="https://i.ytimg.com/vi/wVo-UMit5Ig/maxresdefault.jpg" alt="Express-node" border="0" width="100">
-<img src="http://blog.alakmalak.com/wp-content/uploads/2018/01/Technitiate-Banner-larvel-1140x428.png" alt="Laravel" border="0" width="100">
+<img src="http://blog.alakmalak.com/wp-content/uploads/2018/01/Technitiate-Banner-larvel-1140x428.png" alt="Laravel" border="0" width="180">
 </p>
 
 #### ● Front-end Libraries
