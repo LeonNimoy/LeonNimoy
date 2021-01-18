@@ -4,7 +4,7 @@
 
 ### ➊ Full Stack Web Developer 🖥.
 
-### ● 2020:
+### ● 2020/2021:
 
 #### ● Languages:
 
