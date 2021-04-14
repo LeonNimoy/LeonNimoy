@@ -45,6 +45,8 @@
 <p align="left">
 <img src="https://bit.ly/3lcJonk" alt="GIT" border="0" width="80">
 <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="Docker" border="0" width="80">
+<img src="https://d3gih7jbfe3jlq.cloudfront.net/AWS-Podcast-Title-Art.jpg" alt="AWS" border="0" width="80">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1920px-GraphQL_Logo.svg.png" alt="GraphQL" border="0" width="80">     
 <p>
 
 For more info:
