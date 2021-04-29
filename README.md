@@ -4,6 +4,8 @@
 
 ### ➊ Junior Developer at [Big Bang Shop](https://www.bigbangshop.com.br) 🖥.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonNimoy)](https://github.com/LeonNimoy/github-readme-stats)
+
 ### ● 2020/2021:
 
 #### ● Languages:
