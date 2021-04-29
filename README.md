@@ -51,6 +51,5 @@
 
 For more info:
 
-[Twittter](https://twitter.com/LeonNimoy)
 [Linkedin](https://www.linkedin.com/in/leonardo-mateus-208084146/)
 
