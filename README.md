@@ -2,7 +2,7 @@
    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/raised-hand-with-part-between-middle-and-ring-fingers_emoji-modifier-fitzpatrick-type-5_1f596-1f3fe_1f3fe.png" alt="Vulcano salute" border="0" width="100">
 </p>
 
-### Junior Developer at [Big Bang Shop](https://www.bigbangshop.com.br) 🖥.
+### Back End Developer at [Big Bang Shop](https://www.bigbangshop.com.br) 🖥.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonNimoy)](https://github.com/LeonNimoy/github-readme-stats)
 
