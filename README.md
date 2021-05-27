@@ -30,9 +30,6 @@
 <img src="http://blog.alakmalak.com/wp-content/uploads/2018/01/Technitiate-Banner-larvel-1140x428.png" alt="Laravel" border="0" width="130">
 </p>
 
-#### ● Front-end Libraries
-
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="react" border="0" width="80">
 
 ### ● Databases:
 
